@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Al-xorazmiy+vorislari+IT" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Al-xorazmiy+vorislari+IT+O'quvchisi" />
 </p>
 
 ## mening qiziqishlarim
@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbek11211&theme=neon&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itpark-gif&theme=neon&hide_border=true" width="100%" />
 </p>
